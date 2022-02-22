@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.6",
+  "name": "GoalCounter",
+  "id": "b3e0029e-03a0-4a56-b613-3b908b089047",
+  "isNew": false
+}
